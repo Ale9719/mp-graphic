@@ -12,8 +12,8 @@ export default function Navbar() {
         
         {/* MENU CENTRALE */}
         <div className="hidden md:flex gap-8 text-sm uppercase tracking-widest text-brand-deep font-medium">
-          <Link href="/lavori" className="hover:text-brand-purple transition-colors">Portfolio</Link>
-          <Link href="/contatti" className="hover:text-brand-purple transition-colors">Contattami</Link>
+          <Link href="/mp-graphic/lavori" className="hover:text-brand-purple transition-colors">Portfolio</Link>
+          <Link href="/mp-graphic/contatti" className="hover:text-brand-purple transition-colors">Contattami</Link>
         </div>
 
         <div className="w-50 justify-end flex items-center gap-5 text-brand-purple">
