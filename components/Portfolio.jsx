@@ -5,28 +5,28 @@ export default function Portfolio() {
     {
       title: "Studio Flora",
       category: "Brand Identity",
-      img: "/placeholder.png", 
+      img: "/mp-graphic/placeholder.png", 
       width: "md:col-span-2",
       year: "2024"
     },
     {
       title: "Luna Café",
       category: "Social Kit",
-      img: "/placeholder.png",
+      img: "/mp-graphic/placeholder.png",
       width: "md:col-span-1",
       year: "2023"
     },
     {
       title: "Lookbook 2024",
       category: "Editoria",
-      img: "/placeholder.png",
+      img: "/mp-graphic/placeholder.png",
       width: "md:col-span-1",
       year: "2024"
     },
     {
       title: "Essenza",
       category: "Packaging Design",
-      img: "/placeholder.png",
+      img: "/mp-graphic/placeholder.png",
       width: "md:col-span-2",
       year: "2023"
     }
