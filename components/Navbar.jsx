@@ -7,7 +7,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
         
         <Link href="/" className="flex items-center">
-          <Image src="/Logo-mp.png" alt="Melania Pintore Logo" width={200} height={50} priority style={{ height: 'auto' }} className="object-contain"/>
+          <Image src="/mp-graphic/Logo-mp.png" alt="Melania Pintore Logo" width={200} height={50} priority style={{ height: 'auto' }} className="object-contain"/>
         </Link>
         
         {/* MENU CENTRALE */}
