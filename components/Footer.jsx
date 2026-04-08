@@ -25,7 +25,7 @@ export default function Footer() {
           <div className="md:col-span-5 space-y-6 md:space-y-8">
             <Link href="/" className="inline-block transition-opacity">
               <Image 
-                src="/Logo-mp.png" 
+                src="/mp-graphic/Logo-mp.png" 
                 alt="Melania Pintore Logo" 
                 width={150} 
                 height={60} 
